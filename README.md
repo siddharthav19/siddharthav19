@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Upcoming SDE Intern MOTORQ
-
 - 🌱 I’m currently learning **Angular JS**
+
+- 🌱 Upcoming SDE Intern **MOTORQ**
 
 - 💬 Ask me about **C C++ JavaScript Web Development**
 

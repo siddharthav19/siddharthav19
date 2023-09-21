@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
-- 🌱 Upcoming SDE Intern **MOTORQ**
+- 🌱 Upcoming SDE Intern
 
 - 💬 Ask me about **C C++ JavaScript Web Development**
 

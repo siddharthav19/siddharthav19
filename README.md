@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
+- 💻 Upcoming SDE intern
+
 - 💬 Ask me about **C C++ JavaScript Web Development**
 
 - 📫 How to reach me **siddhartha.v21@iiits.in**

@@ -33,12 +33,14 @@
 
 
 <h1 align="center">Hi 👋, I'm siddhartha v</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/3e/25/503e25719fa98a04e9e2d7419da89094.gif">
 
 
 <p align="left"> <a href="https://twitter.com/siddharthav19" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthav19?logo=twitter&style=for-the-badge" alt="ajax" /></a> </p>
 
+- Upcoming SDE intern @MOTORQ
+  
 - 🌱 I’m currently learning **Angular JS**
 
 - 💬 Ask me about **C C++ Web Development JavaScript**

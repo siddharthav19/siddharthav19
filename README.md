@@ -39,7 +39,7 @@
 
 <p align="left"> <a href="https://twitter.com/siddharthav19" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthav19?logo=twitter&style=for-the-badge" alt="ajax" /></a> </p>
 
-- Upcoming SDE intern @MOTORQ
+- Ex SDE intern @MOTORQ
   
 - 🌱 I’m currently learning **Angular JS**
 
